@@ -1,7 +1,0 @@
-
-Name: Graphite2
-Description: Font rendering engine for Complex Scripts
-Version: 3.0.1
-Libs: -LC:/Users/USER/Desktop/sample_project_1/env/Library/lib -lgraphite2
-Cflags: -IC:/Users/USER/Desktop/sample_project_1/env/Library/include
-
